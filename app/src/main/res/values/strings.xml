@@ -1,0 +1,18 @@
+<resources>
+    <string name="status_onshelf">OnShelf</string>
+    <string name="status_checkedout">CheckedOut</string>
+    <string name="app_name">NYC HighSchool</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">NYC HighSchools</string>
+    <string name="second_fragment_label">title</string>
+    <string name="next">Next</string>
+    <string name="web_site">WEBSITE</string>
+    <string name="text_takers">SAT test takers</string>
+    <string name="reading_score">Reading Score</string>
+    <string name="math_score">Math Score</string>
+    <string name="writing_score">Writing Score</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+
+</resources>
